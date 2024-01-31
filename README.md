@@ -14,7 +14,7 @@ Follow us on social media
 - Instagram: [@marcopolo.tourguide](https://www.instagram.com/marcopolo.tourguide/)
 - TikTok: [@macropolo.tourguide](https://www.tiktok.com/@macropolo.tourguide)
 
-## Links:
+## Links
 
 - LinkedIn: [Justin Hsu](https://www.linkedin.com/in/justinrhhsu/)
 - Twitter: [@JustinRHHsu](https://twitter.com/JustinRHHsu)
