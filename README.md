@@ -19,7 +19,7 @@ Follow us on social media
 - LinkedIn: [@Justin Hsu](https://www.linkedin.com/in/justinrhhsu/)
 - Twitter: [@JustinRHHsu](https://twitter.com/JustinRHHsu)
 - GitHub: [@JustinRHHsu](https://github.com/JustinRHHsu)
-- Medium: [@HumanitiesandAI](https://medium.com/@humanitiesandai))
+- Medium: [@HumanitiesandAI](https://medium.com/@humanitiesandai)
 
 ## Experience
 - Led the Sales and Marketing Automation SaaS product from the beginning stages to its successful launch, serving top-tier global luxury, retail, and financial brands to expand into the China WeChat market."(2018~2023) [Webinar](https://lihi1.com/PeRQE)
