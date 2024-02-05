@@ -16,10 +16,10 @@ Follow us on social media
 
 ## Links
 
-- LinkedIn: [Justin Hsu](https://www.linkedin.com/in/justinrhhsu/)
+- LinkedIn: [@Justin Hsu](https://www.linkedin.com/in/justinrhhsu/)
 - Twitter: [@JustinRHHsu](https://twitter.com/JustinRHHsu)
-- GitHub: [JustinRHHsu](https://github.com/JustinRHHsu)
-- Medium: [JustinRHHsu](https://medium.com/@JustinRHHsu)
+- GitHub: [@JustinRHHsu](https://github.com/JustinRHHsu)
+- Medium: [@HumanitiesandAI]([https://medium.com/@JustinRHHsu](https://medium.com/@humanitiesandai))
 
 ## Experience
 - Led the Sales and Marketing Automation SaaS product from the beginning stages to its successful launch, serving top-tier global luxury, retail, and financial brands to expand into the China WeChat market."(2018~2023) [Webinar](https://lihi1.com/PeRQE)
@@ -27,7 +27,10 @@ Follow us on social media
 
 ## AI Learning Path
 
+[Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/ebe8650d-9cb5-49b9-b929-36131950587c)
+
 ### 2024
+- Generative AI for Developers Learning Path
 - Google Startup School:Gen AI (Jan-Feb)
 - Apply for OpenAI Startup Fund: Converge 2 (Jan)
 
