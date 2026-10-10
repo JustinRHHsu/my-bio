@@ -100,7 +100,7 @@ Earlier experiments: [Photo Studio](https://dub.sh/photo-studio), an AI photo st
 
 ### 工作經歷
 
-- **2024 – 至今** · A PLUS ME 創辦人（台灣）— 協助台灣傳統產業的隱形冠軍（市場橫跨台灣與全球）推動 AI 轉型，目前服務木材建材與醫療器材通路兩個產業，內容包括業務開發與潛客 AI Agent、CRM／ERP 數據整合、經營決策儀表板，以及團隊的 AI 實戰培訓。另一方面，也自己打造並上線產品，包括 SayType 說打與 Top Sales。
+- **2024 – 至今** · A PLUS ME 創辦人（台灣）— 協助台灣傳統產業的隱形冠軍推動 AI 轉型，目前服務木材建材與醫療器材通路兩個產業，內容包括業務開發與潛客 AI Agent、CRM／ERP 數據整合、經營決策儀表板，以及團隊的 AI 實戰培訓。另一方面，也自己打造並上線產品，包括 SayType 說打與 Top Sales。
 - **2020 – 2023** · ChatLabs 產品負責人（美商 MarTech SaaS，騰訊與 Salesforce 合作夥伴，遠端）— 為國際精品品牌打造中國市場的銷售賦能平台，整合 WeChat、WeCom、Salesforce 與 CRM
 - **2019 – 2020** · Chatly 資深產品經理（上海，後被 Salesforce 併購）— 微信與企業微信生態的行銷與銷售 SaaS
 - **2016 – 2017** · Eastern Information Technology 產品經理 — 推出涵蓋八成以上台灣網路使用者的數據管理平台（DMP）
