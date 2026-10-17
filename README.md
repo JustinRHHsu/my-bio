@@ -3,7 +3,7 @@
 I help Taiwan's hidden champions in traditional industries bring AI into their businesses, and I build and ship AI products of my own. Before founding A PLUS ME in 2024, I spent 10+ years as a product manager in MarTech SaaS, big data and IoT.
 
 > **A PLUS ME — Amplify Your Amazing with AI.**
-> A+ME means AI plus me: AI should add to what people are already great at, not replace them. Everything we build, from our own products to the AI-agent teams we build for traditional companies, is designed to give people more room to do their best work.
+> Our vision is a future where AI amplifies people instead of replacing them: every person gets AI that makes them better at what they already do best, and every company, however traditional, can run as an AI-native company. Our products and our consulting work are two paths toward that future.
 
 [SayType](https://saytype.aplusme.app/) · [Top Sales](https://ai-top-sales.aplusme.app/en) · [LinkedIn](https://www.linkedin.com/in/justinrhhsu/) · [Threads](https://www.threads.com/@aigent.justin) · [X](https://x.com/AIgentJustin)
 
@@ -23,9 +23,9 @@ I help Taiwan's hidden champions in traditional industries bring AI into their b
 
 ### AI transformation consulting
 
-I help SMEs and traditional businesses become **AI-native companies**. I don't stop at advice: I go inside the business, map how work actually gets done, rebuild it as **agentic workflows** that run day-to-day operations, and train the team to own and extend them.
+I help SMEs and traditional businesses become **AI-native companies**: enterprises staffed by **AI-agent digital employees** working alongside people. I don't stop at advice. I go inside the business, map how work actually gets done, rebuild it as **agentic workflows**, and train the team to own and extend them. We build the company one team at a time; the first two teams are already running.
 
-| Industry | What we built |
+| Industry | Team delivered so far |
 | --- | --- |
 | **Timber and building materials** (B2B trading) | **An AI-agent sales team.** Agents mine large volumes of customs trade data to find and qualify new buyers, then keep every lead and follow-up moving. It works like adding a prospecting team that never sleeps, without adding headcount. |
 | **Medical devices** (distribution) | **An AI-agent operations team.** Agents take on the analysis, reporting and research work that used to fill staff hours, so the work a team once spent days on is ready the next morning and people can focus on customers. |
@@ -95,7 +95,7 @@ Earlier experiments: [Photo Studio](https://dub.sh/photo-studio), an AI photo st
 我是 A PLUS ME（A+ME）創辦人，協助台灣傳統產業的隱形冠軍把 AI 帶進公司，也自己動手打造並上線 AI 產品。2024 年創業前，我有超過 10 年的產品經理經驗，領域涵蓋 MarTech SaaS、大數據與物聯網。
 
 > **A PLUS ME — Amplify Your Amazing with AI.**
-> A+ME 的意思是「AI 加上我」：AI 應該放大每個人原本就擅長的事，而不是取代人。從我們自己的產品，到為傳統企業打造的 AI Agent 團隊，目的都是讓人有更多空間，去做最能發揮自己的事。
+> 我們想走向的未來，是 AI 放大人，而不是取代人：每個人都有 AI 幫他把最擅長的事做得更好，每家企業，不論多傳統，都能成為 AI Native Company。我們的產品與顧問服務，是通往這個未來的兩條路。
 
 ### 產品
 
@@ -107,9 +107,9 @@ Earlier experiments: [Photo Studio](https://dub.sh/photo-studio), an AI photo st
 
 ### AI 轉型顧問
 
-協助中小企業與傳統產業轉型成 **AI Native Company**。我不只給建議，而是走進公司、看清楚工作實際怎麼進行，把它重新打造成能跑日常營運的 **Agentic Workflow**，並培訓團隊自己接手、持續擴充。
+協助中小企業與傳統產業轉型成 **AI Native Company**：由 **AI Agent 數位員工**與人一起工作的企業。我不只給建議，而是走進公司、看清楚工作實際怎麼進行，把它重新打造成 **Agentic Workflow**，並培訓團隊自己接手、持續擴充。我們一次打造一支團隊，目前已完成並上線的有兩支：
 
-| 產業 | 我們打造的 |
+| 產業 | 已完成的團隊 |
 | --- | --- |
 | **木材建材**（B2B 貿易） | **一支 AI Agent 業務團隊。** 由 Agent 分析大量海關交易資料，找出並篩選新的潛在客戶，再持續推進每一筆名單與跟進。就像多了一支 24 小時不休息的開發團隊，卻不用多聘一個人。 |
 | **醫療器材**（通路） | **一支 AI Agent 營運團隊。** 由 Agent 接手原本占滿人力時間的分析、報表與研究工作，過去團隊要花好幾天的事，隔天早上就準備好，讓人把時間留給客戶。 |
