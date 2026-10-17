@@ -11,8 +11,8 @@
 
 | 產品 | 做什麼 | 狀態 |
 | --- | --- | --- |
-| **[SayType 說打](https://saytype.aplusme.app/)** | 除了打字，你和 AI Agent 之間有更好的溝通方式。別讓鍵盤成為你和 AI 之間的障礙：把想法說出來，SayType 會把說出來的想法有效整理成清楚的文字，約 1 秒就出現在 Mac／Windows 任何 App 的游標位置。說話大約是打字的三倍快，贅詞與說錯改口自動整理，錄音一律不保存。目前支援中文、英文與中英混說，更多語言持續增加中。 | 上線中・起步階段，各產業客戶持續增加 |
-| **[AI Top Sales](https://ai-top-sales.aplusme.app/en)** | 半夜三點的訂單不再漏接。一位 AI 員工 24 小時在 LINE、Facebook、Instagram、WhatsApp 回覆客人、成交訂單、安排預約，月費比台灣基本工資還低。 | 上線中・起步階段，各產業客戶持續增加 |
+| **[SayType 說打](https://saytype.aplusme.app/)** | **Your Voice Layer for AI Agents：你和 AI Agent 之間的語音層。** 除了打字，你和 AI Agent 之間有更好的溝通方式。別讓鍵盤成為你和 AI 之間的障礙：把想法說出來，SayType 會把說出來的想法有效整理成清楚的文字，約 1 秒就出現在 Mac／Windows 任何 App 的游標位置。說話大約是打字的三倍快，贅詞與說錯改口自動整理，錄音一律不保存。目前支援中文、英文與中英混說，更多語言持續增加中。下一步，SayType 會幫你整理日常生活中的語音內容，讓人與 AI Agent 協作得更好。 | 上線中・起步階段，各產業客戶持續增加 |
+| **[AI Top Sales](https://ai-top-sales.aplusme.app/en)** | **Your 24x7 AI Sales Agent Team：你的 24 小時 AI 業務團隊。** 半夜三點的訂單不再漏接。一位 AI 員工 24 小時在 LINE、Facebook、Instagram、WhatsApp 回覆客人、成交訂單、安排預約，月費比台灣基本工資還低。 | 上線中・起步階段，各產業客戶持續增加 |
 | **[Bilingrok](https://dub.sh/bilingrok)** | LINE 上的 AI 語言交換夥伴。 | 入圍 2024 Google AI for Impact APAC 百大團隊 |
 
 **想讓團隊試用 SayType 或 AI Top Sales，或想讓公司轉型成 AI Native Company？** 歡迎來信 [sales.aplusme@gmail.com](mailto:sales.aplusme@gmail.com) 聊聊。
