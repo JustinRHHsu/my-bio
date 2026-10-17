@@ -22,10 +22,10 @@ I help Taiwan's hidden champions in traditional industries bring AI into their b
 
 I help SMEs and traditional businesses become **AI-native companies**. I don't stop at advice: I go inside the business, map how work actually gets done, rebuild it as **agentic workflows** that run day-to-day operations, and train the team to own and extend them.
 
-| Industry | What we've put into production |
+| Industry | What we built |
 | --- | --- |
-| **Timber and building materials** (B2B trading, Taiwan and Southeast Asia) | Lead-generation agents built on customs and government procurement data; agents that turn customer inquiries and supplier quotes from LINE, WhatsApp and Zalo into CRM records; daily follow-up briefs for every salesperson. |
-| **Medical devices** (distribution) | AI agents on top of the company ERP for sales analytics and data lookup; automated extraction of clinical research papers into a structured evidence library; a weekly in-house AI training program. |
+| **Timber and building materials** (B2B trading) | **An AI-agent sales team.** Agents mine large volumes of customs trade data to find and qualify new buyers, then keep every lead and follow-up moving. It works like adding a prospecting team that never sleeps, without adding headcount. |
+| **Medical devices** (distribution) | **An AI-agent operations team.** Agents take on the analysis, reporting and research work that used to fill staff hours, so the work a team once spent days on is ready the next morning and people can focus on customers. |
 
 ### What I'm building
 
@@ -103,10 +103,10 @@ Earlier experiments: [Photo Studio](https://dub.sh/photo-studio), an AI photo st
 
 協助中小企業與傳統產業轉型成 **AI Native Company**。我不只給建議，而是走進公司、看清楚工作實際怎麼進行，把它重新打造成能跑日常營運的 **Agentic Workflow**，並培訓團隊自己接手、持續擴充。
 
-| 產業 | 已上線的成果 |
+| 產業 | 我們打造的 |
 | --- | --- |
-| **木材建材**（B2B 貿易，台灣與東南亞） | 以海關與政府採購資料建立的潛客開發 Agent；把客戶在 LINE、WhatsApp、Zalo 的詢價與供應商報價自動整理進 CRM；每位業務每天的跟進晨報。 |
-| **醫療器材**（通路） | 建在公司 ERP 上的業務分析與資料查詢 AI Agent；臨床研究文獻自動抽取成結構化的證據庫；每週的內部 AI 實戰培訓。 |
+| **木材建材**（B2B 貿易） | **一支 AI Agent 業務團隊。** 由 Agent 分析大量海關交易資料，找出並篩選新的潛在客戶，再持續推進每一筆名單與跟進。就像多了一支 24 小時不休息的開發團隊，卻不用多聘一個人。 |
+| **醫療器材**（通路） | **一支 AI Agent 營運團隊。** 由 Agent 接手原本占滿人力時間的分析、報表與研究工作，過去團隊要花好幾天的事，隔天早上就準備好，讓人把時間留給客戶。 |
 
 ### 正在打造
 
