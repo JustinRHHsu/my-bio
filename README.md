@@ -28,7 +28,7 @@ I help SMEs and traditional businesses become **AI-native companies**: enterpris
 | **Timber and building materials** (B2B trading) | **An AI-agent sales team.** Agents mine large volumes of customs trade data to find and qualify new buyers, then keep every lead and follow-up moving. It works like adding a prospecting team that never sleeps, without adding headcount. |
 | **Medical devices** (distribution) | **An AI-agent operations team.** Agents take on the analysis, reporting and research work that used to fill staff hours, so the work a team once spent days on is ready the next morning and people can focus on customers. |
 
-### What I'm building
+### What's next
 
 - **Agentic Company** — AI systems that run a company's operations end to end and keep learning on their own, built on loop engineering and data flywheels.
 - **On-premise models** — private AI that runs on a company's own hardware, so its data never leaves the building.
