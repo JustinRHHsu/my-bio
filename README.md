@@ -5,7 +5,7 @@ I help Taiwan's hidden champions in traditional industries bring AI into their b
 > **A PLUS ME — Amplify Your Amazing with AI.**
 > Our vision is a future where AI amplifies people instead of replacing them: every person gets AI that makes them better at what they already do best, and every company, however traditional, can run as an AI-native company. Our products and our consulting work are two paths toward that future.
 
-[SayType](https://saytype.aplusme.app/) · [Top Sales](https://ai-top-sales.aplusme.app/en) · [LinkedIn](https://www.linkedin.com/in/justinrhhsu/) · [Threads](https://www.threads.com/@aigent.justin) · [X](https://x.com/AIgentJustin)
+[SayType](https://saytype.aplusme.app/) · [AI Top Sales](https://ai-top-sales.aplusme.app/en) · [LinkedIn](https://www.linkedin.com/in/justinrhhsu/) · [Threads](https://www.threads.com/@aigent.justin) · [X](https://x.com/AIgentJustin)
 
 [中文版](README.zh.md)
 
@@ -14,10 +14,10 @@ I help Taiwan's hidden champions in traditional industries bring AI into their b
 | Product | What it does | Status |
 | --- | --- | --- |
 | **[SayType](https://saytype.aplusme.app/)** | A better way to talk to your AI agents than typing. Don't let the keyboard stand between you and AI: say what you're thinking, and SayType turns it into clear, organized text at your cursor in about a second, in any app on Mac or Windows. You speak about 3× faster than you type, filler words and self-corrections are cleaned up for you, and recordings are never stored. Supports Mandarin, English and a mix of both today, with more languages on the way. | Live · early stage, adding customers across industries |
-| **[Top Sales](https://ai-top-sales.aplusme.app/en)** | Never miss a 3 a.m. order again. One AI employee answers customers, closes orders and books appointments across LINE, Facebook, Instagram and WhatsApp, 24×7, for less than Taiwan's monthly minimum wage. | Live · early stage, adding customers across industries |
+| **[AI Top Sales](https://ai-top-sales.aplusme.app/en)** | Never miss a 3 a.m. order again. One AI employee answers customers, closes orders and books appointments across LINE, Facebook, Instagram and WhatsApp, 24×7, for less than Taiwan's monthly minimum wage. | Live · early stage, adding customers across industries |
 | **[Bilingrok](https://dub.sh/bilingrok)** | An AI language-exchange partner on LINE. | Top 100 finalist, 2024 Google AI for Impact APAC |
 
-**Interested in SayType or Top Sales for your team, or in turning your company into an AI-native company?** Email [sales.aplusme@gmail.com](mailto:sales.aplusme@gmail.com) and let's talk.
+**Interested in SayType or AI Top Sales for your team, or in turning your company into an AI-native company?** Email [sales.aplusme@gmail.com](mailto:sales.aplusme@gmail.com) and let's talk.
 
 ### AI transformation consulting
 
@@ -38,7 +38,7 @@ Earlier experiments: [Photo Studio](https://dub.sh/photo-studio), an AI photo st
 
 ### Experience
 
-- **2024 – now** · Founder, A PLUS ME (Taiwan) — AI transformation consulting for traditional industries (timber and building materials, medical devices; see above), while building and shipping our own products, SayType and Top Sales.
+- **2024 – now** · Founder, A PLUS ME (Taiwan) — AI transformation consulting for traditional industries (timber and building materials, medical devices; see above), while building and shipping our own products, SayType and AI Top Sales.
 - **2020 – 2023** · Product Owner, ChatLabs (US MarTech SaaS; a Tencent and Salesforce partner; remote) — sales-enablement platform for luxury brands in China, integrating WeChat, WeCom, Salesforce and CRM systems
 - **2019 – 2020** · Senior Product Manager, Chatly (Shanghai; acquired by Salesforce) — SaaS for marketing and sales teams on WeChat and WeCom
 - **2016 – 2017** · Product Manager, Eastern Information Technology — launched a data management platform covering 80%+ of Taiwanese internet users

@@ -12,10 +12,10 @@
 | 產品 | 做什麼 | 狀態 |
 | --- | --- | --- |
 | **[SayType 說打](https://saytype.aplusme.app/)** | 除了打字，你和 AI Agent 之間有更好的溝通方式。別讓鍵盤成為你和 AI 之間的障礙：把想法說出來，SayType 會把說出來的想法有效整理成清楚的文字，約 1 秒就出現在 Mac／Windows 任何 App 的游標位置。說話大約是打字的三倍快，贅詞與說錯改口自動整理，錄音一律不保存。目前支援中文、英文與中英混說，更多語言持續增加中。 | 上線中・起步階段，各產業客戶持續增加 |
-| **[Top Sales](https://ai-top-sales.aplusme.app/en)** | 半夜三點的訂單不再漏接。一位 AI 員工 24 小時在 LINE、Facebook、Instagram、WhatsApp 回覆客人、成交訂單、安排預約，月費比台灣基本工資還低。 | 上線中・起步階段，各產業客戶持續增加 |
+| **[AI Top Sales](https://ai-top-sales.aplusme.app/en)** | 半夜三點的訂單不再漏接。一位 AI 員工 24 小時在 LINE、Facebook、Instagram、WhatsApp 回覆客人、成交訂單、安排預約，月費比台灣基本工資還低。 | 上線中・起步階段，各產業客戶持續增加 |
 | **[Bilingrok](https://dub.sh/bilingrok)** | LINE 上的 AI 語言交換夥伴。 | 入圍 2024 Google AI for Impact APAC 百大團隊 |
 
-**想讓團隊試用 SayType 或 Top Sales，或想讓公司轉型成 AI Native Company？** 歡迎來信 [sales.aplusme@gmail.com](mailto:sales.aplusme@gmail.com) 聊聊。
+**想讓團隊試用 SayType 或 AI Top Sales，或想讓公司轉型成 AI Native Company？** 歡迎來信 [sales.aplusme@gmail.com](mailto:sales.aplusme@gmail.com) 聊聊。
 
 ### AI 轉型顧問
 
@@ -36,7 +36,7 @@
 
 ### 工作經歷
 
-- **2024 – 至今** · A PLUS ME 創辦人（台灣）— 為傳統產業提供 AI 轉型顧問（木材建材、醫療器材，見上方），同時打造並上線自有產品 SayType 說打與 Top Sales。
+- **2024 – 至今** · A PLUS ME 創辦人（台灣）— 為傳統產業提供 AI 轉型顧問（木材建材、醫療器材，見上方），同時打造並上線自有產品 SayType 說打與 AI Top Sales。
 - **2020 – 2023** · ChatLabs 產品負責人（美商 MarTech SaaS，騰訊與 Salesforce 合作夥伴，遠端）— 為國際精品品牌打造中國市場的銷售賦能平台，整合 WeChat、WeCom、Salesforce 與 CRM
 - **2019 – 2020** · Chatly 資深產品經理（上海，後被 Salesforce 併購）— 微信與企業微信生態的行銷與銷售 SaaS
 - **2016 – 2017** · Eastern Information Technology 產品經理 — 推出涵蓋八成以上台灣網路使用者的數據管理平台（DMP）
