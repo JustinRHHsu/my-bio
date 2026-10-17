@@ -15,7 +15,7 @@
 | **[Top Sales](https://ai-top-sales.aplusme.app/en)** | 半夜三點的訂單不再漏接。一位 AI 員工 24 小時在 LINE、Facebook、Instagram、WhatsApp 回覆客人、成交訂單、安排預約，月費比台灣基本工資還低。 | 上線中・起步階段，各產業客戶持續增加 |
 | **[Bilingrok](https://dub.sh/bilingrok)** | LINE 上的 AI 語言交換夥伴。 | 入圍 2024 Google AI for Impact APAC 百大團隊 |
 
-**想讓團隊試用 SayType 或 Top Sales，或想讓公司轉型成 AI Native Company？** 歡迎來信 [aplusme.app@gmail.com](mailto:aplusme.app@gmail.com) 聊聊。
+**想讓團隊試用 SayType 或 Top Sales，或想讓公司轉型成 AI Native Company？** 歡迎來信 [sales.aplusme@gmail.com](mailto:sales.aplusme@gmail.com) 聊聊。
 
 ### AI 轉型顧問
 
@@ -56,6 +56,6 @@
 
 ### 聯絡方式
 
-- **Email**：JustinRHHsu@gmail.com · 產品或 AI 轉型合作洽詢：aplusme.app@gmail.com
+- **Email**：JustinRHHsu@gmail.com · 產品或 AI 轉型合作洽詢：sales.aplusme@gmail.com
 - **LinkedIn**：[Justin Hsu](https://www.linkedin.com/in/justinrhhsu/)
 - **AIgent Justin**（AI 科技分享頻道）：[Threads](https://www.threads.com/@aigent.justin) · [X](https://x.com/AIgentJustin) · [Facebook](https://www.facebook.com/profile.php?id=61560660085007&sk=about) · [Instagram](https://www.instagram.com/aigent.justin/) · [Substack](https://humanitythenai.substack.com/)

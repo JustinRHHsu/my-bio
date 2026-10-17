@@ -17,7 +17,7 @@ I help Taiwan's hidden champions in traditional industries bring AI into their b
 | **[Top Sales](https://ai-top-sales.aplusme.app/en)** | Never miss a 3 a.m. order again. One AI employee answers customers, closes orders and books appointments across LINE, Facebook, Instagram and WhatsApp, 24×7, for less than Taiwan's monthly minimum wage. | Live · early stage, adding customers across industries |
 | **[Bilingrok](https://dub.sh/bilingrok)** | An AI language-exchange partner on LINE. | Top 100 finalist, 2024 Google AI for Impact APAC |
 
-**Interested in SayType or Top Sales for your team, or in turning your company into an AI-native company?** Email [aplusme.app@gmail.com](mailto:aplusme.app@gmail.com) and let's talk.
+**Interested in SayType or Top Sales for your team, or in turning your company into an AI-native company?** Email [sales.aplusme@gmail.com](mailto:sales.aplusme@gmail.com) and let's talk.
 
 ### AI transformation consulting
 
@@ -82,6 +82,6 @@ Earlier experiments: [Photo Studio](https://dub.sh/photo-studio), an AI photo st
 
 ### Contact
 
-- **Email**: JustinRHHsu@gmail.com · Business inquiries (products or AI transformation): aplusme.app@gmail.com
+- **Email**: JustinRHHsu@gmail.com · Business inquiries (products or AI transformation): sales.aplusme@gmail.com
 - **LinkedIn**: [Justin Hsu](https://www.linkedin.com/in/justinrhhsu/)
 - **AIgent Justin** (my AI and tech channel): [Threads](https://www.threads.com/@aigent.justin) · [X](https://x.com/AIgentJustin) · [Facebook](https://www.facebook.com/profile.php?id=61560660085007&sk=about) · [Instagram](https://www.instagram.com/aigent.justin/) · [Substack](https://humanitythenai.substack.com/)
