@@ -2,6 +2,9 @@
 
 I help Taiwan's hidden champions in traditional industries bring AI into their businesses, and I build and ship AI products of my own. Before founding A PLUS ME in 2024, I spent 10+ years as a product manager in MarTech SaaS, big data and IoT.
 
+> **A PLUS ME — Amplify Your Amazing with AI.**
+> A+ME means AI plus me: AI should add to what people are already great at, not replace them. Everything we build, from our own products to the AI-agent teams we build for traditional companies, is designed to give people more room to do their best work.
+
 [SayType](https://saytype.aplusme.app/) · [Top Sales](https://ai-top-sales.aplusme.app/en) · [LinkedIn](https://www.linkedin.com/in/justinrhhsu/) · [Threads](https://www.threads.com/@aigent.justin) · [X](https://x.com/AIgentJustin)
 
 [English](#english) | [中文](#中文)
@@ -90,6 +93,9 @@ Earlier experiments: [Photo Studio](https://dub.sh/photo-studio), an AI photo st
 ## 中文
 
 我是 A PLUS ME（A+ME）創辦人，協助台灣傳統產業的隱形冠軍把 AI 帶進公司，也自己動手打造並上線 AI 產品。2024 年創業前，我有超過 10 年的產品經理經驗，領域涵蓋 MarTech SaaS、大數據與物聯網。
+
+> **A PLUS ME — Amplify Your Amazing with AI.**
+> A+ME 的意思是「AI 加上我」：AI 應該放大每個人原本就擅長的事，而不是取代人。從我們自己的產品，到為傳統企業打造的 AI Agent 團隊，目的都是讓人有更多空間，去做最能發揮自己的事。
 
 ### 產品
 
