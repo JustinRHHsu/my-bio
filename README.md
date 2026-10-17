@@ -18,6 +18,15 @@ I help Taiwan's hidden champions in traditional industries bring AI into their b
 | **[Top Sales](https://ai-top-sales.aplusme.app/en)** | Never miss a 3 a.m. order again. One AI employee answers customers, closes orders and books appointments across LINE, Facebook, Instagram and WhatsApp, 24×7, for less than Taiwan's monthly minimum wage. | Live, and working to grow MRR/ARR |
 | **[Bilingrok](https://dub.sh/bilingrok)** | An AI language-exchange partner on LINE. | Top 100 finalist, 2024 Google AI for Impact APAC |
 
+### AI transformation consulting
+
+I help SMEs and traditional businesses become **AI-native companies**. I don't stop at advice: I go inside the business, map how work actually gets done, rebuild it as **agentic workflows** that run day-to-day operations, and train the team to own and extend them.
+
+| Industry | What we've put into production |
+| --- | --- |
+| **Timber and building materials** (B2B trading, Taiwan and Southeast Asia) | Lead-generation agents built on customs and government procurement data; agents that turn customer inquiries and supplier quotes from LINE, WhatsApp and Zalo into CRM records; daily follow-up briefs for every salesperson. |
+| **Medical devices** (distribution) | AI agents on top of the company ERP for sales analytics and data lookup; automated extraction of clinical research papers into a structured evidence library; a weekly in-house AI training program. |
+
 ### What I'm building
 
 - **Agentic Company** — AI systems that run a company's operations end to end and keep learning on their own, built on loop engineering and data flywheels.
@@ -28,7 +37,7 @@ Earlier experiments: [Photo Studio](https://dub.sh/photo-studio), an AI photo st
 
 ### Experience
 
-- **2024 – now** · Founder, A PLUS ME (Taiwan) — I help leaders of Taiwan's hidden champions in traditional industries, companies that sell in Taiwan and around the world, lead AI transformation, currently in timber and building materials and in medical device distribution. The work includes AI agents for sales and lead generation, CRM and ERP data integration, decision dashboards for management, and hands-on AI training for their teams. Alongside this, I build and ship our own products, including SayType and Top Sales.
+- **2024 – now** · Founder, A PLUS ME (Taiwan) — AI transformation consulting for traditional industries (timber and building materials, medical devices; see above), while building and shipping our own products, SayType and Top Sales.
 - **2020 – 2023** · Product Owner, ChatLabs (US MarTech SaaS; a Tencent and Salesforce partner; remote) — sales-enablement platform for luxury brands in China, integrating WeChat, WeCom, Salesforce and CRM systems
 - **2019 – 2020** · Senior Product Manager, Chatly (Shanghai; acquired by Salesforce) — SaaS for marketing and sales teams on WeChat and WeCom
 - **2016 – 2017** · Product Manager, Eastern Information Technology — launched a data management platform covering 80%+ of Taiwanese internet users
@@ -90,6 +99,15 @@ Earlier experiments: [Photo Studio](https://dub.sh/photo-studio), an AI photo st
 | **[Top Sales](https://ai-top-sales.aplusme.app/en)** | 半夜三點的訂單不再漏接。一位 AI 員工 24 小時在 LINE、Facebook、Instagram、WhatsApp 回覆客人、成交訂單、安排預約，月費比台灣基本工資還低。 | 上線中，正在努力增長 MRR/ARR |
 | **[Bilingrok](https://dub.sh/bilingrok)** | LINE 上的 AI 語言交換夥伴。 | 入圍 2024 Google AI for Impact APAC 百大團隊 |
 
+### AI 轉型顧問
+
+協助中小企業與傳統產業轉型成 **AI Native Company**。我不只給建議，而是走進公司、看清楚工作實際怎麼進行，把它重新打造成能跑日常營運的 **Agentic Workflow**，並培訓團隊自己接手、持續擴充。
+
+| 產業 | 已上線的成果 |
+| --- | --- |
+| **木材建材**（B2B 貿易，台灣與東南亞） | 以海關與政府採購資料建立的潛客開發 Agent；把客戶在 LINE、WhatsApp、Zalo 的詢價與供應商報價自動整理進 CRM；每位業務每天的跟進晨報。 |
+| **醫療器材**（通路） | 建在公司 ERP 上的業務分析與資料查詢 AI Agent；臨床研究文獻自動抽取成結構化的證據庫；每週的內部 AI 實戰培訓。 |
+
 ### 正在打造
 
 - **Agentic Company** — 以 Loop Engineering 與 Data Flywheel 打造全自動營運、能自我學習的 AI 系統。
@@ -100,7 +118,7 @@ Earlier experiments: [Photo Studio](https://dub.sh/photo-studio), an AI photo st
 
 ### 工作經歷
 
-- **2024 – 至今** · A PLUS ME 創辦人（台灣）— 協助台灣傳統產業的隱形冠軍推動 AI 轉型，目前服務木材建材與醫療器材通路兩個產業，內容包括業務開發與潛客 AI Agent、CRM／ERP 數據整合、經營決策儀表板，以及團隊的 AI 實戰培訓。另一方面，也自己打造並上線產品，包括 SayType 說打與 Top Sales。
+- **2024 – 至今** · A PLUS ME 創辦人（台灣）— 為傳統產業提供 AI 轉型顧問（木材建材、醫療器材，見上方），同時打造並上線自有產品 SayType 說打與 Top Sales。
 - **2020 – 2023** · ChatLabs 產品負責人（美商 MarTech SaaS，騰訊與 Salesforce 合作夥伴，遠端）— 為國際精品品牌打造中國市場的銷售賦能平台，整合 WeChat、WeCom、Salesforce 與 CRM
 - **2019 – 2020** · Chatly 資深產品經理（上海，後被 Salesforce 併購）— 微信與企業微信生態的行銷與銷售 SaaS
 - **2016 – 2017** · Eastern Information Technology 產品經理 — 推出涵蓋八成以上台灣網路使用者的數據管理平台（DMP）
